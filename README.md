@@ -1,4 +1,4 @@
-# AnomaliFlow: ...... 
+# AnomaliFlow
 This application provides a robust framework for managing machine learning tasks using a combination of FastAPI, Celery, Streamlit, MongoDB, Prefect and Redis. The system allows users to upload datasets, select features, choose machine learning algorithms, and execute tasks asynchronously. Results and task statuses are displayed in real-time, leveraging the power of modern web technologies and scalable background task processing.
 
 ## Features 
